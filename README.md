@@ -14,12 +14,18 @@ Movida pela curiosidade, vejo cada projeto como uma oportunidade de aprendizado.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" width="52" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="52" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="52"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="52" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="52" />
   <img src="https://skillicons.dev/icons?i=html" width="52" />
   <img src="https://skillicons.dev/icons?i=css" width="52" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="52" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="52"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="52" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="52"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="52"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="52"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="52"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="52"/>
+
   
 </p>
